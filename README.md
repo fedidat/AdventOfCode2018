@@ -6,6 +6,8 @@ This year, I started solving the problems using Python and Jupyter Notebooks.
 
 By day 10, I felt comfortable in Python and moved to solve the rest of the problems in Golang.
 
-I plan on moving back to Python for more practice later on if I feel good in Go.
+After day 14, after some back and forth, I'm done with Golang for now. Sorry Rob Pike,
+I guess I'm not "brilliant" enough. Or maaaybe this language is way less
+appropriate then even Java for scripting. Back to `jupyter-lab`.
 
 See you on the other end!

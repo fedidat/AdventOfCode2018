@@ -8,10 +8,13 @@
             "name": "Launch",
             "type": "go",
             "request": "launch",
-            "mode": "auto",
+            "mode": "debug",
             "program": "${fileDirname}",
             "env": {},
-            "args": []
+            "args": [],
+            "port": 2345,
+            "host": "127.0.0.1",
+			"showLog": true
         }
     ]
 }
